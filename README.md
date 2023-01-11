@@ -7,8 +7,8 @@ This is a website about Nicholas Guzy.
 # Link to website 
 https://nicksfed.github.io/First-code-review/ .
 # Technologies used: 
-*html 
-*CSS
+* html 
+* CSS
 # Setup steps
 To set up the application you can use the link on line 4.
 # Known bugs
