@@ -1,12 +1,15 @@
 #p-tag {color:blue
 
 }
-img {
-    float: left;
+  <<<<<<< gh-pages
+  img {
+  float: left;
   }
   .my-class {
-    margin: 24px;
-    border: 6px ridge salmon;
-    padding: 8px;
-    background-color: gold;
+  margin: 24px;
+  border: 6px ridge salmon;
+  padding: 8px;
+  background-color: gold;
   }
+  =======
+  >>>>>>> main
