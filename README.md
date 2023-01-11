@@ -10,7 +10,7 @@ https://nicksfed.github.io/First-code-review/ .
 * html 
 * CSS
 # Setup steps
-To set up the application you can use the link on line 4.
+Clone down the file and then open the index file.
 # Known bugs
 The list of projects overlaps with the image.
 # License information with copyright and date
